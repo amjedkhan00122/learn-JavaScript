@@ -1,2 +1,2 @@
-# learn-JavaScript
-This repo will help you to learn js. And learn open source contibution.
+# learn-Python
+This repo will help you to learn python. And learn open source contibution.
